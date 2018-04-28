@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="activity">activity</string>
+    <string name="to">To</string>
+    <string name="to_hint">Enter email address</string>
+    <string name="message">Message</string>
+    <string name="Send">Send</string>
+</resources>
